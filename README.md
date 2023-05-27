@@ -1,5 +1,9 @@
 # data-hosting
 
+## How to use
+
+- Upload your image under *your folder*
+- Flow below syntax to compose your CDN path
 
 ## Image path
 
